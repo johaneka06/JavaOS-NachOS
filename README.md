@@ -8,7 +8,7 @@ This repository is used for OS Course Practice of NachOS. Feel free to fork / cl
 
 2. Create a java project at your eclipse
 
-3. Copy ```nachos``` folder (whole folder and its contents) inside the NachOS-Template folder.
+3. Copy ```nachos``` folder (whole folder and its contents) inside the NachOS-Template folder to your ```src``` folder at your current project.
 
 4. Create a new ```package``` at src folder. For better naming, use ```nachos.<name>```. (Replace ```name``` with your desired name)
 
